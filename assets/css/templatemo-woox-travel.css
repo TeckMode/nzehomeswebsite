@@ -765,7 +765,7 @@ Banner Style
   line-height: 58px;
   border: 1px solid #22b3c1;
   border-radius: 50%;
-  float: left;
+  float: none;
   margin-right: 20px;
 }
 #section-1 .more-info h4 {
